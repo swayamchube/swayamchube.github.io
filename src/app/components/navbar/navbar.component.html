@@ -1,0 +1,5 @@
+<div class="navbar">
+    <div class="dropdown dropbtn" *ngFor="let route of routes">
+        <a [routerLink]="[route.path]">{{route.label}}</a>
+    </div>
+</div>
