@@ -1,7 +1,7 @@
 # Setup
-title:               Swayam Chube 
-tagline:             
-url:                 https://swayamchube.github.io/
+title:               Swayam Chube
+tagline: 	            
+url:                 https://swayamchube.github.io
 baseurl:             ''
 paginate:            5
 permalink:           pretty
@@ -9,8 +9,6 @@ permalink:           pretty
 # About/contact
 author:
   name:              Swayam Chube
-  # url:               https://twitter.com/mdo
-  # email:             markdotto@gmail.com
 
 # Gems
 plugins:
