@@ -23,4 +23,5 @@ title: Notes and Blurbs
 * The Poincaré-Birkhoff-Witt Theorem [PDF](https://swayamchube.github.io/math/pbw/main.pdf)
 * Group Transfer [PDF](https://swayamchube.github.io/math/transfer/main.pdf)
 * The Inverse Galois Problem over $$\mathbb{C}(t)$$ [PDF](https://swayamchube.github.io/math/igp-ct/main.pdf)
-* The Jacobon Radical [PDF](https://swayamchube.github.io/math/jacobson-radical/main.pdf)
+* The Jacobson Radical [PDF](https://swayamchube.github.io/math/jacobson-radical/main.pdf)
+* On $$\displaystyle\prod_{i = 1}^\infty\mathbb{Z}$$ [PDF](https://swayamchube.github.io/math/prod-z-not-free/main.pdf)
