@@ -20,7 +20,9 @@ title: Notes and Blurbs
 * The Picard Theorems [PDF](https://swayamchube.github.io/math/picard/main.pdf)
 * Lebesgue Differentiation [PDF](https://swayamchube.github.io/math/lebesgue-differentiation/main.pdf)
 * Theorems of Levi and Ado-Iwasawa [PDF](https://swayamchube.github.io/math/levi-ado-iwasawa/main.pdf)
-* The Poincaré-Birkhoff-Witt Theorem [PDF](https://swayamchube.github.io/math/pbw/main.pdf)
+* The Poincaré-Birkhoff-Witt Theorem [PDF](https://swayamchube.github.io/math/pbw/main.pdf) (<small>Also contains a section on epimorphisms of Lie algebras.</small>)
+  
+
 * Group Transfer [PDF](https://swayamchube.github.io/math/transfer/main.pdf)
 * The Inverse Galois Problem over $$\mathbb{C}(t)$$ [PDF](https://swayamchube.github.io/math/igp-ct/main.pdf)
 * The Jacobson Radical [PDF](https://swayamchube.github.io/math/jacobson-radical/main.pdf)
